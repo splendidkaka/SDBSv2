@@ -1,0 +1,11 @@
+scipy
+h5py
+pillow
+imageio
+nni
+mmcv
+tensorboard
+pycocotools
+tqdm
+timm
+fvcore
